@@ -1,0 +1,9 @@
+GET /WebContent/startup.tar.gz HTTP/1.1
+Host: *.*.*.*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Cookie: lang=zh-cn; userName=admin
+Connection: close
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Thu Jan  1 00:02:18 1970
